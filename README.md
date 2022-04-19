@@ -1,4 +1,7 @@
 # The-wordle-game
+All about wordle game
+The Wordle Game is a word guessing game with a simple 6x5 grid interface that has taken over the Internet as the most talked about word guessing game
+
 How to play the Wordle Game?
 
 Guess the Wordle after 6 attempts, with each effort consisting of 5 letters. If you type a word and immediately see a letter become green, you have entered the proper word. It is possible that a letter will become yellow if it appears in the word to be guessed, but it will be in the incorrect location. Furthermore, if the letters are gray, it means that they were wrong guesses and should not be used again in the next word.
